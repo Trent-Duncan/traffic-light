@@ -18,7 +18,22 @@
 
 }
 
+main {
+  display: grid;
+  grid-template-areas:
+    "top-header"
+    "light-section";
+  row-gap: 20px; /* Add a gap between the rows */
+  justify-items: center;
+}
 
+header {
+  grid-area: top-header;
+}
+
+section {
+  grid-area: light-section;
+}
 
 
 
