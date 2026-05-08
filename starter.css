@@ -41,7 +41,7 @@ section {
   display: grid;
   grid-template-rows: repeat(3, 80px); /* Rows have height of 80px */
   row-gap: 15px;
-  background-color: #333; /* Your choice */
+  background-color: #333;
   padding: 20px;
   border-radius: 40px;
 }
@@ -50,7 +50,7 @@ section {
 .light {
   width: 80px; /* Set width to 80px */
   height: 80px; /* Set height to 80px */
-  background-color: #555; /* Your choice */
+  background-color: #555;
   border-radius: 50%; /* Set border-radius to 50% */
   transition: 0.3s; /* Set transition to: 0.3s */
 }
