@@ -58,17 +58,17 @@ section {
 /* Define special CSS class named 'on' */
 /* Controls what lights look like when they are lit up */
 
-.red-light.on {
+#red-light.on {
   background-color: red;
   box-shadow: 0 0 20px #f00;
 }
 
-.yellow-light.on {
+#yellow-light.on {
   background-color: yellow;
   box-shadow: 0 0 20px #fc0;
 }
 
-.green-light.on {
+#green-light.on {
   background-color: green;
   box-shadow: 0 0 20px #0f0;
 }
