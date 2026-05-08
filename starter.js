@@ -1,6 +1,6 @@
-// Mike Jenkins
-// 05 OCT 20XX
-// Project
+// Trent Duncan
+// JS Traffic Light
+// 5/8/2026
 
 // Find each light using getElementById() method
 const lights = [
